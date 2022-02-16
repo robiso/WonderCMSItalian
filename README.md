@@ -1,5 +1,5 @@
 <p align="center"><img src="preview-it.jpg?v=3" /></p>
-<h1 align="center">language-fr</h1>
+<h1 align="center">language-it</h1>
 <p align="center">Italian translations for WonderCMS (by Giacomo Margarito)</p>
 
 <br><br>
